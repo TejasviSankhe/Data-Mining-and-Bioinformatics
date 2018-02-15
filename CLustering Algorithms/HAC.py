@@ -1,7 +1,9 @@
 
-# coding: utf-8
+# Implemented Hierarchical clustering in Python. This code uses various data structures such as dictionary, lists and includes 
+# data manpulation after each iteration. Hence it depicts my understanging of algorithms, data structures and control flow.
 
-# In[40]:
+
+# coding: utf-8
 
 import numpy as np
 import sys
